@@ -1,0 +1,23 @@
+PERSONAL MINI-TOOLKIT PLAN
+
+1. TOOLS
+- Number Guessing Game: The computer picks a number from 1-10 and the user guess
+es until correct.
+- To-Do List: The user can add tasks, view tasks, and remove tasks.
+- Simple Calculator: The user enters two numbers and an operation, and gets the
+result.
+
+2. MENU TEXT
+=== Personal Mini-Toolkit ===
+1. Number Guessing Game
+2. To-Do List
+3. Simple Calculator
+4. Quit
+Choose an option (1-4):
+
+3. CONCEPTS USED
+- Guessing Game: while loop, if/elif/else, f-strings, random
+- To-Do List: list, while loop, append/remove, f-strings
+- Calculator: if/elif/else, f-strings, input conversion
+- Main menu: while loop, if/elif/else
+
